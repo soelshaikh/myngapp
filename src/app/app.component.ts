@@ -1,6 +1,6 @@
 import { Component, Injector } from '@angular/core';
 import { RouterModule } from '@angular/router';
-import { RegisterCustomSyncGridComponent } from './form-devlopment/sync-grid.formio';
+import { RegisterCustomSyncGridComponent } from './form-devlopment/register-custom-components/sync-grid.formio';
 @Component({
   standalone: true,
   imports: [RouterModule],
